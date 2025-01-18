@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(3, 3, 60);
+}
+.moon{
+    width: 200px;
+    height: 200px;
+    border-top-left-radius: 500px;
+    border-bottom-right-radius: 1000px;
+    background-color: aliceblue;
+    margin-top: 200px;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-bottom: 200px;
+}
