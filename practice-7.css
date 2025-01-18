@@ -1,0 +1,57 @@
+.sun{
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-left: 800px;
+    margin-right: 800px;
+}
+.right{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-top-left-radius: 400px;
+    border-bottom-right-radius: 400px;
+    margin-top:10px;
+    margin-left: 800px;
+    margin-bottom: 100px;
+    margin-right: 300px;
+
+}
+.left{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-top-right-radius: 400px;
+    border-bottom-left-radius: 400px;
+    margin-top:10px;
+    margin-left: 500px;
+    margin-bottom: 100px;
+    margin-right: 800px;
+}
+.down{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-top-left-radius: 400px;
+    border-bottom-right-radius: 400px;
+}
+.up{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-top-left-radius: 400px;
+    border-bottom-right-radius: 400px; 
+}
+
+/* .long{
+    background-color: green;
+    width: 30px;
+    height: 500px;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top: 300px;
+    margin-bottom: 0;
+} */
