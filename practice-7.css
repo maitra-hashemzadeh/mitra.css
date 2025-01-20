@@ -1,0 +1,74 @@
+.flower{
+    position: relative;
+}
+.sun{
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    position: absolute;
+    left: 842px;
+   top: 340px;
+   z-index: 1;
+}
+.right{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-top-left-radius: 400px;
+    border-bottom-right-radius: 400px;
+   position: absolute;
+   left: 900px;
+   top: 150px;
+
+}
+.left{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-top-right-radius: 400px;
+    border-bottom-left-radius: 400px;
+    position: absolute;
+    left: 660px;
+   top: 155px;
+
+}
+.down{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-top-left-radius: 400px;
+    border-bottom-right-radius: 400px;
+    position: absolute;
+    left: 650px;
+   top: 395px;
+}
+.up{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-top-right-radius: 400px;
+    border-bottom-left-radius: 400px;
+    position: absolute; 
+    left: 900px;
+    top: 400px;
+}
+
+.long{
+    background-color: green;
+    width: 30px;
+    height: 500px;
+    position: absolute;
+   top: 400px;
+   left: 860px;
+}
+.life{
+    background-color: rgb(18, 217, 54);
+    width: 200px;
+    height: 200px;
+    border-top-right-radius: 400px;
+    border-bottom-left-radius: 400px;
+    position: absolute; 
+    left: 659px;
+    top: 650px;
+}
