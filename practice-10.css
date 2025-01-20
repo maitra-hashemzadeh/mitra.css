@@ -1,0 +1,42 @@
+.apple{
+    width: 250px;
+    height: 400px;
+    background-color: rgb(230, 230, 221);
+    border-radius:10px 10px;
+    border: solid rgba(204, 204, 184, 0.937);
+    padding: 15px;
+    display: inline-block;
+    margin: 50px;
+}
+img{
+    margin-top: 15px;
+    margin-left: 30px;
+    margin-right: 25px;
+    border-radius: 10px;
+    border: solid black;
+    height: 100px;
+}
+div{
+    background-color: rgb(255, 89, 0);
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+.lorem{
+   margin-left: 30px; 
+   
+
+}
+h1{
+    margin-left: 30px;
+
+}
+.price{
+    color: rgb(255, 89, 0);
+    font-size: 25px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}

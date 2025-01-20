@@ -1,0 +1,12 @@
+.header{
+    position: sticky;
+    top:0;
+}
+.nav{
+    background-color: aqua;
+}
+.footer{
+    background-color: darkgray;
+    height: 800px;
+
+}

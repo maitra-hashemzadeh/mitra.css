@@ -1,0 +1,11 @@
+.style{
+    background-color: aqua;
+    display: inline-block;
+    margin-top: 300px;
+    margin-bottom: 300px;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+.logo{
+    text-align: center;
+}
