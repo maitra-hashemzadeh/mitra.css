@@ -1,0 +1,554 @@
+.family {
+  position: relative;
+}
+.heart1 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 500px;
+  right: 500px;
+  bottom: 100px;
+  top: 100px;
+  position: absolute;
+}
+.heart2 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 522px;
+  right: 525px;
+  bottom: 100px;
+  top: 100px;
+  position: absolute;
+}
+.heart3 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 628px;
+  right: 500px;
+  bottom: 100px;
+  top: 100px;
+  position: absolute;
+}
+.heart4 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 650px;
+  right: 500px;
+  bottom: 100px;
+  top: 100px;
+  position: absolute;
+}
+.heart5 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 499px;
+  right: 499px;
+  bottom: 100px;
+  top: 123px;
+  position: absolute;
+}
+.heart6 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 522px;
+  right: 500px;
+  bottom: 100px;
+  top: 123px;
+  position: absolute;
+}
+.heart7 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 545px;
+  right: 500px;
+  bottom: 100px;
+  top: 123px;
+  position: absolute;
+}
+.heart8 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  right: 500px;
+  left: 614px;
+  bottom: 200px;
+  top: 123px;
+  position: absolute;
+}
+.heart9 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  right: 500px;
+  left: 685px;
+  bottom: 100px;
+  top: 123px;
+  position: absolute;
+}
+.heart10 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 476px;
+  right: 399px;
+  bottom: 100px;
+  top: 123px;
+  position: absolute;
+}
+.heart11 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 662px;
+  right: 399px;
+  bottom: 100px;
+  top: 123px;
+  position: absolute;
+}
+.heart12 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 638px;
+  right: 399px;
+  bottom: 100px;
+  top: 123px;
+  position: absolute;
+}
+.heart13 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 476px;
+  right: 499px;
+  bottom: 100px;
+  top: 146px;
+  position: absolute;
+}
+.heart14 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 500px;
+  right: 499px;
+  bottom: 100px;
+  top: 146px;
+  position: absolute;
+}
+.heart15 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 522px;
+  right: 499px;
+  bottom: 100px;
+  top: 146px;
+  position: absolute;
+}
+.heart16 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 545px;
+  right: 499px;
+  bottom: 100px;
+  top: 146px;
+  position: absolute;
+}
+.heart17 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 568px;
+  right: 499px;
+  bottom: 100px;
+  top: 146px;
+  position: absolute;
+}
+.heart18 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 591px;
+  right: 499px;
+  bottom: 100px;
+  top: 146px;
+  position: absolute;
+}
+.heart19 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 614px;
+  right: 499px;
+  bottom: 100px;
+  top: 146px;
+  position: absolute;
+}
+.heart20 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 638px;
+  right: 499px;
+  bottom: 100px;
+  top: 146px;
+  position: absolute;
+}
+.heart21 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 662px;
+  right: 499px;
+  bottom: 100px;
+  top: 146px;
+  position: absolute;
+}
+.heart22 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 685px;
+  right: 499px;
+  bottom: 100px;
+  top: 146px;
+  position: absolute;
+}
+.heart23 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 476px;
+  right: 499px;
+  bottom: 100px;
+  top: 169px;
+  position: absolute;
+}
+.heart24 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 500px;
+  right: 499px;
+  bottom: 100px;
+  top: 169px;
+  position: absolute;
+}
+.heart25 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 500px;
+  right: 499px;
+  bottom: 100px;
+  top: 169px;
+  position: absolute;
+}
+.heart26 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 523px;
+  right: 499px;
+  bottom: 100px;
+  top: 169px;
+  position: absolute;
+}
+.heart27 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 545px;
+  right: 499px;
+  bottom: 100px;
+  top: 169px;
+  position: absolute;
+}
+.heart28 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 568px;
+  right: 499px;
+  bottom: 100px;
+  top: 169px;
+  position: absolute;
+}
+.heart29 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 591px;
+  right: 499px;
+  bottom: 100px;
+  top: 169px;
+  position: absolute;
+}
+.heart30 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 614px;
+  right: 499px;
+  bottom: 100px;
+  top: 169px;
+  position: absolute;
+}
+.heart31 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 638px;
+  right: 499px;
+  bottom: 100px;
+  top: 169px;
+  position: absolute;
+}
+.heart32 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 662px;
+  right: 499px;
+  bottom: 100px;
+  top: 169px;
+  position: absolute;
+}
+.heart33 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 685px;
+  right: 499px;
+  bottom: 100px;
+  top: 169px;
+  position: absolute;
+}
+.heart34 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 500px;
+  right: 499px;
+  bottom: 100px;
+  top: 191px;
+  position: absolute;
+}
+.heart35 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 523px;
+  right: 499px;
+  bottom: 100px;
+  top: 191px;
+  position: absolute;
+}
+.heart36 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 545px;
+  right: 499px;
+  bottom: 100px;
+  top: 191px;
+  position: absolute;
+}
+.heart37 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 568px;
+  right: 499px;
+  bottom: 100px;
+  top: 191px;
+  position: absolute;
+}
+.heart38 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 591px;
+  right: 499px;
+  bottom: 100px;
+  top: 191px;
+  position: absolute;
+}
+.heart39 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 614px;
+  right: 499px;
+  bottom: 100px;
+  top: 191px;
+  position: absolute;
+}
+.heart40 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 638px;
+  right: 499px;
+  bottom: 100px;
+  top: 191px;
+  position: absolute;
+}
+.heart41 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 662px;
+  right: 499px;
+  bottom: 100px;
+  top: 191px;
+  position: absolute;
+}
+.heart42 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 662px;
+  right: 499px;
+  bottom: 100px;
+  top: 191px;
+  position: absolute;
+}
+.heart43 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 523px;
+  right: 499px;
+  bottom: 100px;
+  top: 214px;
+  position: absolute;
+}
+.heart44 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 545px;
+  right: 499px;
+  bottom: 100px;
+  top: 214px;
+  position: absolute;
+}
+.heart45 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 568px;
+  right: 499px;
+  bottom: 100px;
+  top: 214px;
+  position: absolute;
+}
+.heart46 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 592px;
+  right: 499px;
+  bottom: 100px;
+  top: 214px;
+  position: absolute;
+}
+.heart47 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 615px;
+  right: 499px;
+  bottom: 100px;
+  top: 214px;
+  position: absolute;
+}
+.heart48 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 638px;
+  right: 499px;
+  bottom: 100px;
+  top: 214px;
+  position: absolute;
+}
+.heart49 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 545px;
+  right: 499px;
+  bottom: 100px;
+  top: 238px;
+  position: absolute;
+}
+.heart50 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 568px;
+  right: 499px;
+  bottom: 100px;
+  top: 238px;
+  position: absolute;
+}
+.heart51 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 592px;
+  right: 499px;
+  bottom: 100px;
+  top: 238px;
+  position: absolute;
+}
+.heart52 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  left: 615px;
+  right: 499px;
+  bottom: 100px;
+  top: 238px;
+  position: absolute;
+}
+.heart53{
+    width: 20px;
+    height: 20px;
+    background-color: crimson;
+    left: 569px;
+    right: 499px;
+    bottom: 100px;
+    top: 261px;
+    position: absolute;
+}
+.heart54{
+    width: 20px;
+    height: 20px;
+    background-color: crimson;
+    left: 592px;
+    right: 499px;
+    bottom: 100px;
+    top: 261px;
+    position: absolute;  
+}
+.heart55{
+    width: 20px;
+    height: 20px;
+    background-color: crimson;
+    left: 580px;
+    right: 499px;
+    bottom: 100px;
+    top: 284px;
+    position: absolute; 
+}
+/* I do not attention to number of box and added more */
