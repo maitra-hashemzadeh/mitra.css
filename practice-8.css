@@ -1,0 +1,195 @@
+.puzzle {
+    border: 2px solid rgb(100, 104, 174);
+    width: 500px;
+    height: 500px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    position: relative;
+  }
+  .box1 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+  }
+  .box2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(228, 222, 222);
+  }
+  .box3 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+  }
+  .box4 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(228, 222, 222);
+  }
+  .box5 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+  }
+  .box6 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(228, 222, 222);
+    left: 100px;
+    bottom: 400px;
+    position: absolute;
+  }
+  .box7 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    left: 100px;
+    bottom: 300px;
+    position: absolute;
+  }
+  .box8 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(228, 222, 222);
+    left: 100px;
+    bottom: 200px;
+    position: absolute;
+  }
+  .box9 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    left: 100px;
+    bottom: 100px;
+    position: absolute;
+  }
+  .box10 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(228, 222, 222);
+    left: 100px;
+    bottom: 0px;
+    position: absolute;
+  }
+  .box11 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    left: 200px;
+    bottom: 400px;
+    position: absolute;
+  }
+  .box12 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(228, 222, 222);
+    left: 200px;
+    bottom: 300px;
+    position: absolute;
+  }
+  .box13{
+      width: 100px;
+    height: 100px;
+    background-color: black;
+    left: 200px;
+    bottom: 200px;
+    position: absolute;
+  }
+  .box14{
+      width: 100px;
+      height: 100px;
+      background-color: rgb(228, 222, 222);
+      left: 200px;
+      bottom: 100px;
+      position: absolute;
+  }
+  .box15{
+      width: 100px;
+      height: 100px;
+      background-color: black;
+      left: 200px;
+      bottom: 0px;
+      position: absolute;
+  }
+  .box16{
+      width: 100px;
+      height: 100px;
+      background-color: rgb(228, 222, 222);
+      left: 300px;
+      bottom: 400px;
+      position: absolute;
+  }
+  .box17{
+      width: 100px;
+      height: 100px;
+      background-color: black;
+      left: 300px;
+      bottom: 300px;
+      position: absolute;
+  }
+  .box18{
+      width: 100px;
+      height: 100px;
+      background-color: rgb(228, 222, 222);
+      left: 300px;
+      bottom: 200px;
+      position: absolute; 
+  }
+  .box19{
+      width: 100px;
+      height: 100px;
+      background-color: black;
+      left: 300px;
+      bottom: 100px;
+      position: absolute;
+  } 
+  .box20{
+      width: 100px;
+      height: 100px;
+      background-color: rgb(228, 222, 222);
+      left: 300px;
+      bottom: 0px;
+      position: absolute; 
+  }
+  .box21{
+      width: 100px;
+      height: 100px;
+      background-color: black;
+      left: 400px;
+      bottom: 400px;
+      position: absolute;  
+  }
+  .box22{
+      width: 100px;
+      height: 100px;
+      background-color:  rgb(228, 222, 222);
+      left: 400px;
+      bottom: 300px;
+      position: absolute;  
+  }
+  .box23{
+      width: 100px;
+      height: 100px;
+      background-color: black;
+      left: 400px;
+      bottom: 200px;
+      position: absolute; 
+  }
+  .box24{
+      width: 100px;
+      height: 100px;
+      background-color:  rgb(228, 222, 222);
+      left: 400px;
+      bottom: 100px;
+      position: absolute;  
+  }
+  .box25{
+      width: 100px;
+      height: 100px;
+      background-color: black;
+      left: 400px;
+      bottom: 0px;
+      position: absolute;  
+  }
