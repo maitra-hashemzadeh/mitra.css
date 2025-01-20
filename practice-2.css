@@ -1,0 +1,21 @@
+.parent{
+    position: relative;
+}
+.me{
+    background-color: aqua; 
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    z-index: 1;
+    left: 20px;
+    top: 20px;
+}
+.you{
+    background-color: orangered;
+    width: 200px;
+    height: 100px;
+    z-index:2 ;
+    position: absolute;
+    left: 60px;
+    top: 60px;
+}
